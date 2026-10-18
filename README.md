@@ -1,5 +1,13 @@
 # Nikhil Awasthi
 
+```text
+$ whoami
+nikhil-awasthi: Manual QA Tester, fresher, immediate joiner
+
+$ cat focus.txt
+find the bug -> write steps a developer can reproduce -> verify the fix
+```
+
 Manual QA tester from Lucknow. I like finding the bug that a happy-path click-through misses, and writing it up so a developer can reproduce it on the first try.
 
 MCA (AI/ML), Amity University 2024. Fresher, can join immediately. Open to Bengaluru, Noida, Pune, Lucknow or remote.
