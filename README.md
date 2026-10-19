@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-open_to_work-2ea043?style=for-the-badge" alt="open to work">
   <img src="https://img.shields.io/badge/joining-immediate-0969da?style=for-the-badge" alt="immediate joiner">
-  <img src="https://img.shields.io/badge/location-Lucknow_|_open_to_relocate-8250df?style=for-the-badge" alt="location">
+  <img src="https://img.shields.io/badge/location-Bengaluru_|_open_to_relocate-8250df?style=for-the-badge" alt="location">
 </p>
 
 ```text
@@ -15,7 +15,7 @@ find the bug  ->  write steps a developer can reproduce  ->  verify the fix
 
 $ ./status --now
 [OK] seeking entry-level Manual QA / Software Test Engineer roles
-[OK] Bengaluru | Noida | Pune | Lucknow | remote
+[OK] Bengaluru | Noida | Pune | remote
 ```
 
 <p>
