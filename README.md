@@ -21,7 +21,7 @@ $ ./status --now
 <p>
 <a href="https://claude.ai/artifact/3vnEYonHwSUsV9CyNX4hQB"><img src="https://img.shields.io/badge/Portfolio-live-0f3a3c?style=for-the-badge" alt="portfolio"></a>
 <a href="https://www.linkedin.com/in/nikhil-awasthi-qa"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-<a href="https://drive.google.com/file/d/1GZAJ-NZ2PIYFE9P-7G4dudoEWF7Q-0j1/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-d73a49?style=for-the-badge" alt="resume"></a>
+<a href="https://drive.google.com/file/d/14cAjLFe0p6OAPIT1XmWoZPP5vwm7XSPT/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-d73a49?style=for-the-badge" alt="resume"></a>
 <a href="mailto:nikhillawasthi9@gmail.com"><img src="https://img.shields.io/badge/Email-write_to_me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
 </p>
 
